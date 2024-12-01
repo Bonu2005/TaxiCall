@@ -1,0 +1,12 @@
+QLabel{
+        font-family:'Times New Roman', Times, serif;
+        font-size: 35px;
+        font-style:italic;
+        font-weight: 50;
+        border: 2px solid #e4b08b9a;
+        border-radius: 10px;
+        background-color: rgb(255, 255, 255);
+        font-variant: small-caps;
+        text-transform: capitalize;
+    }
+    
